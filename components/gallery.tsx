@@ -45,7 +45,7 @@ export default function Gallery() {
     },
     {
       id: 8,
-      src: "https://images.unsplash.com/photo-1607260550778-aa9d29444ce7?q=80&w=2070",
+      src: "https://images.unsplash.com/photo-1619474387533-301ed3b5a734?q=80&w=2070",
       alt: "Dessert plate",
     },
   ]
